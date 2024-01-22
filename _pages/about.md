@@ -20,5 +20,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, my name is Daniel. :wave: I am a PhD student at the Artificial Intelligence and Machine Learning Lab of TU Darmstadt. My research is centered on bringing symbolic and neural systems closer to solve challenging problems like understanding and reasoning about visual scenes. Currently, I am working on the advancement of deep probabilistic programming languages. I am supervised by <a href="https://ml-research.github.io/people/kkersting/">Prof. Kristian Kersting</a>  and <a href="https://sites.google.com/view/devendradhami">Dr. Devendra Singh Dhami</a>.
+Hey, my name is Daniel. :wave: I am a PhD student at the Artificial Intelligence and Machine Learning Lab of TU Darmstadt. My research is centered on bringing symbolic and neural systems closer to solve challenging problems like understanding and reasoning about visual scenes. Currently, I am working on the advancement of deep probabilistic programming languages and how we can monitor our ever-changing planet using satellite imagery. I am supervised by <a href="https://ml-research.github.io/people/kkersting/">Prof. Kristian Kersting</a>  and <a href="https://sites.google.com/view/devendradhami">Dr. Devendra Singh Dhami</a>.
 
